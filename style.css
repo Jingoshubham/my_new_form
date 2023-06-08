@@ -22,11 +22,26 @@ body{
 }
 h1{
     text-align: center;
+    background-color: rgb(140, 34, 89);
 }
 .baba{
     background-color: blue;
 }
 #button{
     width: 100px;
-    background-color: darkolivegreen;
+    background-color: blueviolet;
+    padding: 5px;
+    border: solid 3px;
+}
+.namet{
+    border-color: rgb(250, 215, 223);
+    border: solid 3px;
+}
+.passt{
+    border-color: rgb(250, 215, 223);
+    border: solid 3px;
+}
+#goot{
+    text-align: left;
+    
 }
