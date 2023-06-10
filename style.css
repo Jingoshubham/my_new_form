@@ -45,3 +45,7 @@ h1{
     text-align: left;
     
 }
+
+.button:hover{
+    color: blue;
+}
